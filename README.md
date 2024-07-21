@@ -1,6 +1,6 @@
-# Project Credits to JavaScript Mastery on Youtube
+## Project Credits to JavaScript Mastery on Youtube
 
-## https://youtu.be/b9eMGE7QtTk?si=oTOX0EO-NzqTg0Za
+Tutorial Link: https://youtu.be/b9eMGE7QtTk?si=oTOX0EO-NzqTg0Za
 
 # Getting Started with Create React App
 
